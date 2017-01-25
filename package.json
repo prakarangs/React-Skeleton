@@ -1,0 +1,24 @@
+{
+  "name": "React-Skeleton",
+  "version": "1.0.0",
+  "description": "Skeleton to start your React project fast",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://prakarangs@github.com/prakarangs/React-Skeleton.git"
+  },
+  "keywords": [],
+  "author": "Prakarang Sangamatong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prakarangs/React-Skeleton/issues"
+  },
+  "homepage": "https://github.com/prakarangs/React-Skeleton#readme",
+  "devDependencies": {
+    "webpack": "^1.14.0"
+  }
+}
